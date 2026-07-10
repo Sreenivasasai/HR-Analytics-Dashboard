@@ -6,7 +6,6 @@ The **HR Analytics Dashboard** is an interactive Power BI project designed to an
 
 The dashboard helps HR teams and management understand employee behavior, identify key factors affecting attrition, and support data-driven workforce decisions.
 
----
 
 ##  Project Objectives
 
@@ -19,7 +18,6 @@ The dashboard helps HR teams and management understand employee behavior, identi
 * Build an interactive dashboard using slicers and filters
 * Support HR decision-making with clear visual insights
 
----
 
 ##  Tools & Technologies Used
 
@@ -29,7 +27,6 @@ The dashboard helps HR teams and management understand employee behavior, identi
 * **Microsoft Excel / CSV** – Source data handling
 * **Data Modeling** – Creating relationships and structured analysis
 
----
 
 ##  Key Performance Indicators
 
@@ -44,7 +41,6 @@ The dashboard focuses on important HR metrics such as:
 *  Job Satisfaction
 *  Average Years at Company
 
----
 
 ##  Dashboard Analysis
 
@@ -92,7 +88,6 @@ Evaluates employee income patterns and explores how salary levels may influence 
 
 Analyzes employee satisfaction levels to understand their relationship with workforce stability and attrition.
 
----
 
 ##  Interactive Dashboard Features
 
@@ -109,7 +104,6 @@ The Power BI dashboard includes interactive features such as:
 
 When a user selects a value from a slicer, all connected dashboard visuals update automatically.
 
----
 
 ##  Sample DAX Measures
 
@@ -147,8 +141,6 @@ Active Employees =
 [Total Employees] - [Total Attrition]
 ```
 
----
-
 ##  Key Business Insights
 
 * Employee attrition can be analyzed across departments, job roles, and demographic groups.
@@ -159,7 +151,6 @@ Active Employees =
 * Department-level analysis helps identify workforce areas requiring immediate attention.
 * Interactive filtering enables HR teams to perform detailed employee-level analysis.
 
----
 
 ##  Project Structure
 
@@ -173,7 +164,6 @@ HR-Analytics-Dashboard/
 └── README.md
 ```
 
----
 
 ##  Dashboard Preview
 
@@ -193,7 +183,6 @@ HR-Analytics-Dashboard/
 └── README.md
 ```
 
----
 
 ##  How to Use the Project
 
@@ -203,7 +192,6 @@ HR-Analytics-Dashboard/
 4. Use slicers and filters to explore HR metrics.
 5. Interact with charts to analyze workforce and attrition patterns.
 
----
 
 ##  Business Value
 
@@ -217,7 +205,6 @@ This dashboard helps HR professionals and business leaders to:
 * Support data-driven HR planning
 * Improve organizational decision-making
 
----
 
 ##  Future Enhancements
 
