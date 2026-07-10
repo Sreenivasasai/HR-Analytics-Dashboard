@@ -1,6 +1,6 @@
-# 📊 HR Analytics Dashboard | Power BI
+# HR Analytics Dashboard | Power BI
 
-## 📌 Project Overview
+##  Project Overview
 
 The **HR Analytics Dashboard** is an interactive Power BI project designed to analyze employee data and provide meaningful insights into workforce trends, employee attrition, job satisfaction, demographics, and organizational performance.
 
@@ -8,7 +8,7 @@ The dashboard helps HR teams and management understand employee behavior, identi
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 * Analyze overall employee workforce data
 * Track employee attrition and retention trends
@@ -21,7 +21,7 @@ The dashboard helps HR teams and management understand employee behavior, identi
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 * **Power BI Desktop** – Dashboard development and visualization
 * **Power Query** – Data cleaning and transformation
@@ -31,22 +31,22 @@ The dashboard helps HR teams and management understand employee behavior, identi
 
 ---
 
-## 📊 Key Performance Indicators
+##  Key Performance Indicators
 
 The dashboard focuses on important HR metrics such as:
 
-* 👥 Total Employees
-* 🚪 Total Attrition
-* 📉 Attrition Rate
-* 💼 Active Employees
-* 🎂 Average Employee Age
-* 💰 Average Monthly Income
-* ⭐ Job Satisfaction
-* 📅 Average Years at Company
+*  Total Employees
+*  Total Attrition
+*  Attrition Rate
+*  Active Employees
+*  Average Employee Age
+*  Average Monthly Income
+*  Job Satisfaction
+*  Average Years at Company
 
 ---
 
-## 📈 Dashboard Analysis
+##  Dashboard Analysis
 
 ### 1. Employee Overview
 
@@ -94,7 +94,7 @@ Analyzes employee satisfaction levels to understand their relationship with work
 
 ---
 
-## 🔄 Interactive Dashboard Features
+##  Interactive Dashboard Features
 
 The Power BI dashboard includes interactive features such as:
 
@@ -111,7 +111,7 @@ When a user selects a value from a slicer, all connected dashboard visuals updat
 
 ---
 
-## 🧮 Sample DAX Measures
+##  Sample DAX Measures
 
 ### Total Employees
 
@@ -149,7 +149,7 @@ Active Employees =
 
 ---
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
 * Employee attrition can be analyzed across departments, job roles, and demographic groups.
 * Specific age groups may show higher employee turnover patterns.
@@ -161,7 +161,7 @@ Active Employees =
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 HR-Analytics-Dashboard/
@@ -175,7 +175,7 @@ HR-Analytics-Dashboard/
 
 ---
 
-## 🖼️ Dashboard Preview
+##  Dashboard Preview
 
 Add your dashboard screenshot to the GitHub repository and use:
 
@@ -195,7 +195,7 @@ HR-Analytics-Dashboard/
 
 ---
 
-## 🚀 How to Use the Project
+##  How to Use the Project
 
 1. Download or clone the repository.
 2. Open the `.pbix` file using Power BI Desktop.
@@ -205,7 +205,7 @@ HR-Analytics-Dashboard/
 
 ---
 
-## 🎯 Business Value
+##  Business Value
 
 This dashboard helps HR professionals and business leaders to:
 
@@ -219,7 +219,7 @@ This dashboard helps HR professionals and business leaders to:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Employee attrition prediction using Machine Learning
 * Real-time HR database integration
